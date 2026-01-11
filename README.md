@@ -84,7 +84,7 @@ await client.sendMessage(m.chat, {
     ],
     newsletter: {
       newsletterName: "Kaiross Official | Informasi",
-      newsletterJid: "1@newsletter"
+      newsletterJid: "120363400747111340@newsletter"
     }
   }
 })
